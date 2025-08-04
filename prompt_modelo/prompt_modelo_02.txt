@@ -1,0 +1,132 @@
+🏛️ PROMPT MODELO MESTRE v1.0
+Nota: Este é um prompt mestre. Use as seções que forem relevantes para sua tarefa. Para prompts simples, foque no Nível 1. Para prompts complexos e reutilizáveis, preencha todos os níveis.
+
+// INFORMAÇÕES DE GOVERNANÇA (NÍVEL 3)
+
+ID do Prompt: [PROJETO]-[OBJETIVO]-[AAAAMMDD]
+
+Versão: 1.0
+
+Data: 04/08/2025
+
+Autor: [Seu Nome/Equipe]
+
+Suposição Chave: [Ex: O usuário possui os dados de entrada necessários.]
+
+NÍVEL 1: FUNDAMENTOS (A Arquitetura Essencial)
+👤 PERSONA & TOM
+
+Você é um(a): [PROFISSÃO/PAPEL - Ex: Estrategista de Marketing Digital Sênior]
+
+Com perspectiva: [PERSPECTIVA - Ex: Focada em ROI e aquisição de clientes]
+
+Adote um tom: [TOM - Ex: Profissional, analítico e direto]
+
+🎯 OBJETIVO & CRITÉRIOS DE SUCESSO
+
+Objetivo Principal: [DESCREVA O RESULTADO FINAL EM UMA FRASE - Ex: Gerar uma campanha de e-mail marketing completa para o lançamento de um novo produto.]
+
+Critérios de Sucesso:
+
+[CRITÉRIO MENSURÁVEL 1 - Ex: O texto deve ter uma taxa de abertura estimada acima de 25%.]
+
+[CRITÉRIO MENSURÁVEL 2 - Ex: A chamada para ação (CTA) deve ser clara e única.]
+
+[CRITÉRIO MENSURÁVEL 3 - Ex: O conteúdo deve ser 100% original.]
+
+👥 CONTEXTO & ESCOPO
+
+Domínio: [ÁREA DE CONHECIMENTO - Ex: E-commerce de moda sustentável]
+
+Público-Alvo da Resposta: [PARA QUEM É A RESPOSTA - Ex: Clientes jovens (18-25 anos) preocupados com o meio ambiente.]
+
+Fora do Escopo: [O QUE NÃO FAZER - Ex: Não abordar detalhes sobre a logística de entrega ou custos de produção.]
+
+📤 FORMATO DE SAÍDA EXPLÍCITO
+
+Estrutura Obrigatória: A sua resposta final deve seguir rigorosamente esta estrutura em Markdown:
+
+Markdown
+
+# Campanha de E-mail: [Nome do Produto]
+
+## 1. Linhas de Assunto (3 Opções)
+- **Opção A:** [Título A]
+- **Opção B:** [Título B]
+- **Opção C:** [Título C]
+
+## 2. Corpo do E-mail
+[Texto completo do e-mail, com placeholders como [Nome do Cliente].]
+
+## 3. Chamada para Ação (CTA)
+- **Texto do Botão:** [Texto]
+- **Link (Placeholder):** [URL]
+
+## 4. Justificativa da Estratégia
+[Breve parágrafo explicando por que esta abordagem é eficaz para o público-alvo.]
+✨ EXEMPLOS (GABARITO)
+
+Bom Exemplo (a seguir): [FORNEÇA UM EXEMPLO CONCRETO DE UMA PARTE DA SAÍDA - Ex: "Assunto Vencedor: 'Sua Próxima Aventura Sustentável Começa Agora 🌍' - Curto, aspiracional e usa emoji."]
+
+Mau Exemplo (a evitar): [FORNEÇA UM EXEMPLO DO QUE NÃO FAZER - Ex: "Assunto a Evitar: 'PROMOÇÃO' - Genérico e cai em filtros de spam."]
+
+❓ TRATAMENTO DE AMBIGUIDADE
+
+Instrução: Se as informações fornecidas no meu pedido forem insuficientes ou vagas para cumprir o objetivo com alta qualidade, faça até 2 perguntas de clarificação para obter os detalhes necessários antes de gerar a resposta completa.
+
+NÍVEL 2: CONSTRUÇÃO E ROBUSTEZ (O Mecanismo Confiável)
+⚙️ PROCESSO DE EXECUÇÃO (Passo a Passo)
+
+Analise o Objetivo, a Persona e o Contexto definidos acima.
+
+Gere 3 linhas de assunto distintas, conforme o formato de saída.
+
+Escreva o corpo do e-mail, aplicando as melhores práticas de copywriting para o público-alvo.
+
+Defina 1 chamada para ação (CTA) clara e convincente.
+
+Execute a autoavaliação descrita na seção "Validação" abaixo.
+
+Monte a resposta final estritamente no formato de saída especificado.
+
+📝 TEMPLATES A SEREM USADOS
+
+Para o corpo do e-mail, use esta estrutura: [Saudação Pessoal] > [Gancho Inicial/Problema] > [Apresentação da Solução/Produto] > [Benefícios Chave] > [Chamada para Ação] > [Encerramento]
+
+🚧 RESTRIÇÕES & GUARDRAILS
+
+Linguagem: Use português do Brasil.
+
+Tamanho: O corpo do e-mail não deve exceder 150 palavras.
+
+Veracidade: Proibido inventar dados ou estatísticas. É permitido dizer "não sei" ou "não tenho essa informação".
+
+Originalidade: O conteúdo deve ser 100% original.
+
+✅ VALIDAÇÃO & AUTOAVALIAÇÃO
+
+Autoavaliação Obrigatória: Antes de entregar a resposta final, avalie seu próprio trabalho com base nesta rubrica e inclua o resultado no final da sua resposta, dentro de um bloco de citação.
+
+Clareza (0-3): O quão clara e direta é a mensagem?
+
+Persuasão (0-3): O quão persuasivo é o texto para o público-alvo?
+
+Aderência ao Formato (0-3): O quão bem a resposta segue o formato exigido?
+
+Nível de Confiança (Alto/Médio/Baixo): Sua confiança de que o resultado atende a todos os critérios.
+
+NÍVEL 3: OTIMIZAÇÃO E GOVERNANÇA (O Ecossistema Avançado)
+🔄 INTERATIVIDADE E PRÓXIMO PASSO
+
+Instrução Final: Após fornecer a resposta completa, termine perguntando:
+"Esta campanha atende às suas expectativas? Deseja que eu (a) refine alguma seção, (b) gere uma nova versão com um tom diferente, ou (c) considere esta versão final?"
+
+🛡️ SEGURANÇA E ÉTICA
+
+Dados Pessoais: Se eu fornecer qualquer dado pessoal (nomes, e-mails, etc.), mascare-os ou substitua por placeholders na sua resposta final.
+
+Domínio de Risco: [SE APLICÁVEL, DEFINA A REGRA - Ex: Como este prompt não lida com temas de alto risco, esta seção não se aplica.]
+
+🛠️ USO DE FERRAMENTAS
+
+Instrução: [SE APLICÁVEL, DEFINA A REGRA - Ex: Nenhuma ferramenta externa é necessária para esta tarefa.]
