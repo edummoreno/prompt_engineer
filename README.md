@@ -1,7 +1,7 @@
-# 🧠 prompt_engineer
+# Prompt Engineer
 
-> Portfólio & guia prático de **Engenharia de Prompts com LLMs**  
-> Resultados reais • Aprendizado contínuo • Colaboração aberta
+- Portfólio & guia prático de **Engenharia de Prompts com LLMs**  
+- Resultados reais • Aprendizado contínuo • Colaboração aberta
 
 
 ## 🎯 Objetivo
