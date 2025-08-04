@@ -14,12 +14,20 @@
 - Criar um Biblioteca de Prompts.
 
 ## 🔗 Outros Repositórios Sobre Prompt Engineer
-- [Prompt Engineering Guide – DAIR.AI](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+- [Prompt Engineering Guide – DAIR.AI](https://github.com/dair-ai/Prompt-Engineering-Guide)  
+  *Estudo aprofundado e documentação*
+
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)  
+  *Catálogo de prompts prontos*
 
 ## 📚 Referências para Estudo
-- [arXiv – Prompt Engineering](https://arxiv.org/search/?query=prompt+engineering&searchtype=all)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/pt)
+
+- [arXiv – Prompt Engineering](https://arxiv.org/search/?query=prompt+engineering&searchtype=all)  
+  *Pesquisa e papers acadêmicos*
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai/pt)  
+  *Guia interativo e introdutório*
 
 
 ## 📬 Contato
