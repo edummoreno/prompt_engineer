@@ -13,11 +13,14 @@
 - Disponibilizar prompts para contextos especificos prontos para uso Imediato.
 - Criar um Biblioteca de Prompts.
 
-## 📖 Referências Técnicas e Científicas
+## 🔗 Outros Repositórios Sobre Prompt Engineer
 - [Prompt Engineering Guide – DAIR.AI](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [arXiv – Prompt Engineering](https://arxiv.org/search/?query=prompt+engineering&searchtype=all)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+## 📚 Referências para Estudo
+- [arXiv – Prompt Engineering](https://arxiv.org/search/?query=prompt+engineering&searchtype=all)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/pt)
+
 
 ## 📬 Contato
 - LinkedIn: [linkedin](https://www.linkedin.com/in/eduardo-moreno-neto/)
